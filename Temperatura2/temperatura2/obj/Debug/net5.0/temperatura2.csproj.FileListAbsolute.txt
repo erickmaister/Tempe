@@ -1,0 +1,16 @@
+C:\Users\ediso\source\repos\temperatura2\temperatura2\obj\Debug\net5.0\temperatura2.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\temperatura2\temperatura2\obj\Debug\net5.0\temperatura2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediso\source\repos\temperatura2\temperatura2\obj\Debug\net5.0\temperatura2.AssemblyInfoInputs.cache
+C:\Users\ediso\source\repos\temperatura2\temperatura2\obj\Debug\net5.0\temperatura2.AssemblyInfo.cs
+C:\Users\ediso\source\repos\temperatura2\temperatura2\obj\Debug\net5.0\temperatura2.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\temperatura2\temperatura2\bin\Debug\net5.0\temperatura2.exe
+C:\Users\ediso\source\repos\temperatura2\temperatura2\bin\Debug\net5.0\temperatura2.deps.json
+C:\Users\ediso\source\repos\temperatura2\temperatura2\bin\Debug\net5.0\temperatura2.runtimeconfig.json
+C:\Users\ediso\source\repos\temperatura2\temperatura2\bin\Debug\net5.0\temperatura2.runtimeconfig.dev.json
+C:\Users\ediso\source\repos\temperatura2\temperatura2\bin\Debug\net5.0\temperatura2.dll
+C:\Users\ediso\source\repos\temperatura2\temperatura2\bin\Debug\net5.0\ref\temperatura2.dll
+C:\Users\ediso\source\repos\temperatura2\temperatura2\bin\Debug\net5.0\temperatura2.pdb
+C:\Users\ediso\source\repos\temperatura2\temperatura2\obj\Debug\net5.0\temperatura2.dll
+C:\Users\ediso\source\repos\temperatura2\temperatura2\obj\Debug\net5.0\ref\temperatura2.dll
+C:\Users\ediso\source\repos\temperatura2\temperatura2\obj\Debug\net5.0\temperatura2.pdb
+C:\Users\ediso\source\repos\temperatura2\temperatura2\obj\Debug\net5.0\temperatura2.genruntimeconfig.cache
