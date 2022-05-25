@@ -1,5 +1,0 @@
-C:\Users\ediso\source\repos\Temper\Temper\obj\Debug\netcoreapp3.1\Temper.csproj.AssemblyReference.cache
-C:\Users\ediso\source\repos\Temper\Temper\obj\Debug\netcoreapp3.1\Temper.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ediso\source\repos\Temper\Temper\obj\Debug\netcoreapp3.1\Temper.AssemblyInfoInputs.cache
-C:\Users\ediso\source\repos\Temper\Temper\obj\Debug\netcoreapp3.1\Temper.AssemblyInfo.cs
-C:\Users\ediso\source\repos\Temper\Temper\obj\Debug\netcoreapp3.1\Temper.csproj.CoreCompileInputs.cache
